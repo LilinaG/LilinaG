@@ -5,7 +5,6 @@
 
 - 🌱 I am currently learning full stack web development. **Factoria 5 and Fem Coders.**
 
-- 📫 How to reach me **lgutierrezfer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
