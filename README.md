@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liliana Gutiérrez 👨‍💻⚡</h1>
-<h3 align="center">In the process of becoming a full stack web developer.</h3>
+<h3 align="center"> ⭐⭐ Full stack web developer in progress ⭐⭐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilinag&label=Profile%20views&color=0e75b6&style=flat" alt="lilinag" /> </p>
 
